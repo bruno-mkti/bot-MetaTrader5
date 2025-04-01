@@ -1,7 +1,8 @@
 # Robô de automação para compra e venda de ações usando o MetaTrader5
 
 Como executar:
-1 - Instalar o Metratrader 5 com executável "mt5setup.exe"
+
+1 - Instalar o Metratrader5 com executável "mt5setup.exe"
 
 2 - Abrir o Metatrader e criar uma conta de DEMO
 
