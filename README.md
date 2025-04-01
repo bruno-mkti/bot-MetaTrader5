@@ -11,7 +11,11 @@ Como executar:
 Ferramentas > aba ExpertAdvisors > Marcar a opção "Relacione no quadro abaixo as URL que deseja permitir a função WebRequest > Adicione "localhost"
 
 4 - Importar automação para o MetaTrader5:
+
 . Entrar em Arquivo > Abrir Pasta de Dados > MQL5 > Experts
+
 . Copiar pasta "bot-MetaTrader5" dentro dessa pasta Expert
 
-5- Executar Python com comando "phyton init-mt5.py"
+5 - Executar Python com comando "phyton init-mt5.py"
+
+6 - Consultar saldo  com comando "python saldo.py"
